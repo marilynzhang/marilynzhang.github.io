@@ -12,6 +12,12 @@ body {
 
 }
 
+div.nameheader {
+    color: #000066;
+    margin: 20px 0 20px 0;
+    padding: 20px;
+} 
+
 input[type=button], input[type=submit]{
   background-color: #000066;
   color: white;
