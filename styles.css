@@ -11,7 +11,8 @@ body {
 
 .nameheader h1{
     margin: 0;
-    font-size: 32px;
+    padding: 10px;
+    font-size: 48px;
     color: #000066; 
     font-family: 'Lato';
 } 
