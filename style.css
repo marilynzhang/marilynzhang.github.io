@@ -15,8 +15,7 @@ body {
 div.nameheader {
     color: #000066;
     font-family: 'Poppins';
-    margin: 20px 0 20px 0;
-    padding: 20px;
+    margin: auto;
 } 
 
 input[type=button], input[type=submit]{
