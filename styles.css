@@ -9,7 +9,7 @@ body {
   font-family: 'Poppins';
 }
 
-.nameheader h1{
+div.nameheader h1{
     margin: 0;
     font-size: 72px;
     color: #000066; 
