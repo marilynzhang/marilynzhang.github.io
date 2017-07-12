@@ -15,7 +15,7 @@ body {
 
 }
 
-.nameheader {
+div.nameheader {
     height:25%;
     margin: 0;
     font-size: 128px;
