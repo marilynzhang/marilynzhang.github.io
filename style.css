@@ -1,0 +1,38 @@
+h1 {
+  font-family: 'Lato';
+  color: #000066;
+}
+
+body {
+  font-family: 'Poppins';
+  font-size: 18px;
+  padding-right: 700px;
+  background-color: #c2f0f0;
+  color: black;
+
+}
+
+input[type=button], input[type=submit]{
+  background-color: #000066;
+  color: white;
+  border: none;
+  padding: 4px 8px;
+  font-family: 'Poppins';
+  font-size: 20px;
+  cursor: pointer;
+}
+
+input[type=text]{
+  font-size: 20px;
+  font-family: 'Poppins';
+}
+
+input[type=button], input[type=submit]:hover{
+  background-color: #007acc;
+  color: white;
+  border: none;
+  padding: 4px 8px;
+  font-family: 'Poppins';
+  font-size: 20px;
+  cursor: pointer;
+}
