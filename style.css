@@ -5,7 +5,6 @@ h1 {
 
 body {
   font-family: 'Poppins';
-  font-size: 18px;
   height: 100%;
   width: 100%;
   margin: 0;
@@ -19,6 +18,7 @@ body {
 div.nameheader {
     height:25%;
     margin: 0;
+    font-size: 36px;
   
 } 
 
