@@ -1,4 +1,4 @@
-/* body {
+body {
   height: 100%;
   width: 100%;
   margin: 0;
@@ -7,11 +7,11 @@
   background-color: #c2f0f0;
   color: black;
   font-family: 'Poppins';
-} */
+}
 
-.nameheader {
+.nameheader h1{
     margin: 0;
-    font-size: 72px;
+    font-size: 32px;
     color: #000066; 
     font-family: 'Lato';
 } 
