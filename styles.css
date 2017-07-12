@@ -1,3 +1,4 @@
+html,
 body {
   font-family: 'Poppins';
   height: 100%;
@@ -7,10 +8,9 @@ body {
   text-align: center;
   background-color: #c2f0f0;
   color: black;
-
 }
 
-.nameheader {
+.nameheader h1{
     height:25%;
     margin: 0;
     font-size: 16px;
