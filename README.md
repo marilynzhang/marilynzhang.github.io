@@ -1,2 +1,2 @@
-# marilynzhang.github.io
-Personal website
+# Personal Website
+https://marilynzhang.github.io/
