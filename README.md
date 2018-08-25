@@ -8,5 +8,5 @@ To-Dos for the future:
 - implement responsive website design
 - change background picture to Amsterdam bridge picture 
 - finish filling in the rest of the sections
-- books section! Guns Germs and Steel, Spirit Catches you and you fall, When Breath Becomes Air, All The Light We Cannot See, Every Note Played
+- books section! Guns Germs and Steel, Spirit Catches you and you fall, When Breath Becomes Air, All The Light We Cannot See, Every Note Played, Language of Food, Foundation, 3 Books
 - further change the heading fonts so that they're sans serif 
